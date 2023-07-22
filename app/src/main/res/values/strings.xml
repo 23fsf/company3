@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="put_image">add Image</string>
+    <string name="firstName">firstName</string>
+    <string name="lastname">lastName</string>
+    <string name="age">age</string>
+    <string name="address">address</string>
+    <string name="submit">Submit</string>
+    <string name="main_text">بيانات الموظفين</string>
+    <string name="main_button1">اضافة موظف جديد</string>
+    <string name="main_button2">قائمة الموظفين</string>
+</resources>
